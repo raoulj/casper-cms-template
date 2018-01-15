@@ -10,7 +10,7 @@ paginate = 10
 canonifyurls = true
 
 [params]
-  description = "Mary Kate's boyfriend"
+  description = "A work in progress..."
   cover = "images/cover.jpg"
   author = "Raoul Rodriguez"
   authorlocation = "New Jersey/York, USA"
