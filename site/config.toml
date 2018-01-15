@@ -12,7 +12,7 @@ canonifyurls = true
 [params]
   description = "Mary Kate's boyfriend"
   cover = "images/cover.jpg"
-  author = "Raoul J. Rodriguez"
+  author = "Raoul Rodriguez"
   authorlocation = "New Jersey/York, USA"
   authorwebsite = "raoulj.io"
   bio= "Electrical Engineering undergraduate student at Princeton University"
