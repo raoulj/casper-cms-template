@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "Casper Theme"
+title = "Raoul Rodriguez"
 theme = "hugo-theme-casper"
 disqusShortname = "spf13"
 # Enable Google Analytics by inserting your tracking code
@@ -10,9 +10,9 @@ paginate = 10
 canonifyurls = true
 
 [params]
-  description = "this is my description"
+  description = "Hi Mary Kate!"
   cover = "images/cover.jpg"
-  author = "Valère JEANTET"
+  author = "Raoul J. Rodriguez"
   authorlocation = "Paris, France"
   authorwebsite = "http://vjeantet.fr"
   bio= "my bio"
